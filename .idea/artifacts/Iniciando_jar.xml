@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Iniciando:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Iniciando_jar</output-path>
+    <root id="archive" name="Iniciando.jar">
+      <element id="module-output" name="Iniciando" />
+    </root>
+  </artifact>
+</component>

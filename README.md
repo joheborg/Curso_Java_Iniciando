@@ -1,0 +1,2 @@
+# Curso_Java_Iniciando
+ Este curso prático de Java abrange desde conceitos básicos até tópicos avançados, preparando o aluno para desenvolver aplicativos robustos. Com uma abordagem dinâmica e desafios práticos, o conteúdo cobre variáveis, controle de fluxo, desenvolvimento de interfaces gráficas e integração com bancos de dados. Ao longo do curso, foram desenvolvidos projetos reais, reforçando o aprendizado com exemplos do mundo corporativo.
